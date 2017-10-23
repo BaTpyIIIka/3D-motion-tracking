@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DataSender</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="start">Старт</string>
+    <string name="stop">Стоп</string>
+    <string name="attention">Внимание!</string>
+    <string name="ip_addr">255.255.255.255</string>
+    <string name="exit">Выход</string>
+    <string name="X">x = </string>
+    <string name="Y">y = </string>
+    <string name="Z">z = </string>
+    <string name="port">1024-65535</string>
+    <string name="colon">:</string>
+    <string name="Hz">Гц</string>
+
+</resources>
